@@ -1,4 +1,4 @@
-package pathfinding;
+package astar;
 
 public class Vector2<T> {
 

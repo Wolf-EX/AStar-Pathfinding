@@ -1,4 +1,4 @@
-package pathfinding;
+package astar;
 
 import java.util.Comparator;
 import java.util.List;
